@@ -1,8 +1,8 @@
 name: flet_confetti
 description: Flet FletConfetti control
-repository: https://github.com/MyGithubAccount/flet-confetti/src/flutter/flet_confetti
+repository: https://github.com/skeletorflet/flet-confetti/src/flutter/flet_confetti
 version: 0.1.0
-homepage: https://github.com/MyGithubAccount/flet-confetti
+homepage: https://github.com/skeletorflet/flet-confetti
 
 environment:
   sdk: '>=3.3.0 <4.0.0'

@@ -13,9 +13,9 @@ dependencies = [
 
 [project.urls]
 Homepage = "https://mydomain.dev"
-Documentation = "https://github.com/MyGithubAccount/flet-confetti"
-Repository = "https://github.com/MyGithubAccount/flet-confetti"
-Issues = "https://github.com/MyGithubAccount/flet-confetti/issues"
+Documentation = "https://github.com/skeletorflet/flet-confetti"
+Repository = "https://github.com/skeletorflet/flet-confetti"
+Issues = "https://github.com/skeletorflet/flet-confetti/issues"
 
 [tool.setuptools.package-data]
 "flutter.flet_confetti" = ["**/*"]

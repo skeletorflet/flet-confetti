@@ -11,7 +11,7 @@ Link to git repository:
 
 ```
 dependencies = [
-  "flet-confetti @ git+https://github.com/MyGithubAccount/flet-confetti",
+  "flet-confetti @ git+https://github.com/skeletorflet/flet-confetti",
   "flet>=0.28.3",
 ]
 ```
@@ -34,4 +34,4 @@ flet build macos -v
 
 ## Documentation
 
-[Link to documentation](https://MyGithubAccount.github.io/flet-confetti/)
+[Link to documentation](https://skeletorflet.github.io/flet-confetti/)
