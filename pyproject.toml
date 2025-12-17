@@ -7,18 +7,17 @@ authors = [{ name = "Flet contributors", email = "hello@flet.dev" }]
 license = "Apache-2.0"
 requires-python = ">=3.10"
 dependencies = [
-    "flet",
+    "flet >=0.70.0.dev0",
 ]
 
 
 [project.urls]
-Homepage = "https://flet.dev"
-Documentation = "https://flet-dev.github.io/flet-rive"
-Repository = "https://github.com/flet-dev/flet-rive"
-Issues = "https://github.com/flet-dev/flet-rive/issues"
+Homepage = "https://github.com/skeletorflet/flet-confetti"
+Repository = "https://github.com/skeletorflet/flet-confetti"
+Issues = "https://github.com/skeletorflet/flet-confetti/issues"
 
 [tool.setuptools.package-data]
-"flutter.flet_rive" = ["**/*"]
+"flutter.flet_confetti" = ["**/*"]
 
 [dependency-groups]
 test = [

@@ -15,7 +15,10 @@ dependencies:
   confetti: ^0.7.0
 
   flet:
-    path: C:\Users\July\Desktop\asdasdas\flet\packages\flet
+    git:
+      url: https://github.com/flet-dev/flet.git
+      path: packages/flet
+      ref: main
 
 dev_dependencies:
   flutter_test:
