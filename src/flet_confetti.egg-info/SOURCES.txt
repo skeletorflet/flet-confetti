@@ -8,3 +8,9 @@ src/flet_confetti.egg-info/SOURCES.txt
 src/flet_confetti.egg-info/dependency_links.txt
 src/flet_confetti.egg-info/requires.txt
 src/flet_confetti.egg-info/top_level.txt
+src/flutter/flet_confetti/analysis_options.yaml
+src/flutter/flet_confetti/pubspec.lock
+src/flutter/flet_confetti/pubspec.yaml
+src/flutter/flet_confetti/lib/flet_confetti.dart
+src/flutter/flet_confetti/lib/src/confetti.dart
+src/flutter/flet_confetti/lib/src/extension.dart
