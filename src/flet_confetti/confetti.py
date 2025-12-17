@@ -20,7 +20,7 @@ class ConfettiShape(str, Enum):
     DIAMOND = "diamond"
 
 @ft.control("Confetti")
-class Confetti(ft.ConstrainedControl):
+class Confetti(ft.Control):
     """
     Confetti widget bridging to Flutter's confetti package.
     """
